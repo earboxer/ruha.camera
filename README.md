@@ -9,6 +9,7 @@ A 3D Printable Retro-style Raspberry Pi HQ Camera
 - Raspberry Pi Zero WH + microSD card 
 - Raspberry Pi HQ Camera 
 - 16mm 10MP Telephoto Lens 
+- Raspberry Pi Zero Camera Cable (The cable that comes with your camera will not work on Pi-Zero's or Pi-5 and up) [[Adafruit]](https://www.adafruit.com/product/3157)
 - 2.2" TFT Display 
 - TP4056 Micro USB Battery Charger 
 - MT3608 DC-DC Step Up Boost Module 
